@@ -1,4 +1,4 @@
-this is a documentation to run the project on kaggle with and this is the data set link  https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset
+this is a documentation to run the project on kaggle and here is the data set link  https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset
 
 
 
